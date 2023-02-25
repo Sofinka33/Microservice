@@ -26,10 +26,12 @@ The client should connect to the microservice using a TCP socket connection. The
 
 
 Request
+
 The client should send a list of numbers as a string in the following format:
 [1, 2, 3, 4]
 
 Response
+
 The microservice will send back the result as a string in the following format:
 [100, 200, 300, 400]
 
