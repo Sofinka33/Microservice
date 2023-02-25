@@ -33,5 +33,5 @@ Response
 The microservice will send back the result as a string in the following format:
 [100, 200, 300, 400]
 
-
+![alt text](diagram.png "Title")
 
